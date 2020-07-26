@@ -1,2 +1,1 @@
-# C24
-C24 Work
+# Box Class
